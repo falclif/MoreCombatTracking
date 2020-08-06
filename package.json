@@ -1,0 +1,12 @@
+{
+  "name": "more-combat-tracking",
+  "version": "0.0.1",
+  "author": "Daniel Robertson",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "husky": "^4.2.5",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1"
+  }
+}
