@@ -4,7 +4,7 @@ More Combat Tracking is a Foundry VTT module that lets you track additional reso
 
 ## Installation
 
-Install using the URL : ``
+Install using the URL : `https://raw.githubusercontent.com/falclif/MoreCombatTracking/master/module.json`
 
 ## Supported Systems
 
